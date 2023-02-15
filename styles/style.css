@@ -1,0 +1,25 @@
+html{
+    font-size: 28px; /*px significa la cantidad de pixeles que mide, ahora mismo mide 28 pixeles de alto*/
+    font-family: 'Edu QLD Beginner', cursive;
+    font-family: 'Libre Baskerville', serif; /*esta es la tipografia que consultamos de google fonts*/
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    background: #E3AE97;
+}
+
+p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    justify-items: auto;
+    border-style: hidden;
+    text-align: left;
+}
+
+strong{
+    color: blue;
+}
